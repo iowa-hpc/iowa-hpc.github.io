@@ -1,7 +1,7 @@
 ---
-title: "UI-HPC Lab - Team"
+title: "IOWA-HPC Group - Team"
 layout: gridlay
-excerpt: "HPC Lab: Team members"
+excerpt: "IOWA-HPC Group: Team members"
 sitemap: false
 permalink: /team/
 ---

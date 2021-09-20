@@ -1,13 +1,14 @@
 ---
-title: "UI-HPC Lab - Openings"
+title: "IOWA-HPC Group - Openings"
 layout: textlay
-excerpt: "Openings"
+excerpt: "IOWA-HPC Group - Openings"
 sitemap: false
-permalink: /openings
+permalink: /openings/
 ---
 
 <span style="color:red">**We have multiple openings for Postdocs, PhDs, and MS students. Please contact Prof. Jiang or Prof. Li if you are interested in their research.**</span>
 
+<br/>
 To join our research group, you should have a bachelors/masters degree in computer science/engineering/mathematics, and have performed well academically. Further, you should have the following skills:
 1. Good command over the English language (both spoken and written).
 2. Excellent programming skills, and experience with developing systems software (e.g., operating systems kernels, compilers, middleware etc).
@@ -16,7 +17,12 @@ To join our research group, you should have a bachelors/masters degree in comput
 
 If you meet the above criteria and are interested in our research, please feel free to send an email to either Prof. Jiang or Prof. Li and include your resume/CV as well as undergrad transcript.
 
-<html>
+<br/>
+
+Prof. Peng Jiang: *peng-jiang@uiowa.edu*
+
+Prof. Guanpeng Li: *guanpeng-li@uiowa.edu*
+<!-- <html>
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-6">
@@ -27,7 +33,7 @@ If you meet the above criteria and are interested in our research, please feel f
             </div>
         </div>
     </div>
-</html>
+</html> -->
 
 <!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">

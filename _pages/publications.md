@@ -1,7 +1,7 @@
 ---
-title: "UI-HPC Lab - Publications"
+title: "IOWA-HPC Group - Publications"
 layout: gridlay
-excerpt: "HPC Lab -- Publications."
+excerpt: "IOWA-HPC Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -59,17 +59,13 @@ permalink: /publications/
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 
-## Recent Publications
+### Selected Publications \([Full List]()\)
 
 Peppa-X: Finding Program Test Inputs to Bound Silent Data Corruption Vulnerability in HPC Applications<br/>Md Hasanur Rahman, Aabid Shamji, Shengjian Guo, Guanpeng Li*<br/>\[**SC’21**\] International Conference for High-Performance Computing, Networking, Storage and Analysis [\[PDF\]](https://sc21.supercomputing.org/presentation/?sess=sess178&id=pap161#038;id=pap161)
 
 
 Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning<br/>Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang*<br/>
 \[**PACT’20**\] The 29th International Conference on Parallel Architectures and Compilation Techniques [\[PDF\]](https://dl.acm.org/doi/10.1145/3410463.3414648)
-
-## Full Publications
-
-[Click here]() for full publication list.
 
 <!-- ## Conference Papers
 

@@ -1,7 +1,7 @@
 ---
-title: "UI-HPC Lab - Home"
+title: "IOWA-HPC Group - Home"
 layout: homelay
-excerpt: "HPC Lab at University of Iowa."
+excerpt: "IOWA-HPC Group at University of Iowa."
 sitemap: false
 permalink: /
 ---
@@ -48,7 +48,8 @@ permalink: /
   </a>
 </div>
 
-We are the HPC system group in the [Department of Computer Science](https://cs.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/). Overall, our mission is to improve performance and reliability in HPC systems. University of Iowa is ranked #38th in United States based on [CSRankings](http://csrankings.org/#/index?hpc&us) in the area of HPC. 
+We are the High-Performance Computing (HPC) system group in the [Department of Computer Science](https://cs.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/). Our mission is to advance the performance and reliability of the next generation HPC systems for large-scale machine learning, scientific computing, and data mining applications through compiler, program analysis, and AI-directed approaches. The University of Iowa is ranked #39th in the United States based on [CSRankings](http://csrankings.org/#/index?hpc&us) in the area of HPC.
+
 
  **We are always looking for passionate and self-motivated new PhD students, Postdocs, and MS students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 

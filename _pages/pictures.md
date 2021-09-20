@@ -1,7 +1,7 @@
 ---
-title: "UI-HPC Lab - Lab Photos"
+title: "IOWA-HPC Group - Lab Photos"
 layout: piclay
-excerpt: "HPC Lab -- Galleries"
+excerpt: "IOWA-HPC Group - Lab Photos"
 permalink: /pictures/
 ---
 
